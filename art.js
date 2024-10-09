@@ -1,3 +1,9 @@
+/*
+-James Hagan
+-Web Development
+-HomeWork 4
+Last Modified:10/9/24
+*/
 const newArtworks = [
     { title: 'The Scream', artist: 'Edvard Munch', img: 'https://via.placeholder.com/200' },
     { title: 'Girl with a Pearl Earring', artist: 'Johannes Vermeer', img: 'https://via.placeholder.com/200' },
